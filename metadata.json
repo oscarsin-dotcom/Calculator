@@ -1,0 +1,5 @@
+{
+  "name": "OmniCalc GenAI",
+  "description": "A world-class scientific calculator featuring standard arithmetic, history tape, and a Gemini-powered 'Smart Solve' mode for natural language math problems.",
+  "requestFramePermissions": []
+}
